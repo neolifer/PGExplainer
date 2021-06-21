@@ -1,4 +1,4 @@
-from config import dtype
+from codes.config import dtype
 import tensorflow as tf
 
 
