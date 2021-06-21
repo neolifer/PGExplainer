@@ -1,6 +1,6 @@
-from inits import *
+from codes.inits import *
 import tensorflow as tf
-from config import args,dtype
+from codes.config import args,dtype
 from tensorflow.python.keras import layers
 
 
